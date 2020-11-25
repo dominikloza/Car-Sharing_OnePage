@@ -23,7 +23,7 @@ body {
     height: calc(100vh - 40px);
     width: 100%;
     background-image: url("../images/Image.jpg");
-    background-size: 100% 807px;
+    background-size: 100%;
     background-position: center;
     position: relative;
     display: flex;
@@ -334,6 +334,7 @@ form {
 
 input,
 textarea {
+    padding: 5px;
     width: 444px;
     height: 38px;
     border: 1px solid rgba(209, 209, 209, 1);
@@ -371,7 +372,7 @@ textarea {
     cursor: pointer;
     display: flex;
     font-family: "Open Sans", sans-serif;
-    font-size: 10px;
+    font-size: 13px;
     font-weight: 300;
     line-height: 14px;
 }
