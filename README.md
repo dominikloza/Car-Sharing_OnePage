@@ -7,5 +7,8 @@ One Page website of Car Sharing
 * HTML & CSS
 * Font Awesome
 
+## Live Demo
+https://master.d1mlhgliaz8mje.amplifyapp.com
+
 ## Status
 Project is: _finished_
